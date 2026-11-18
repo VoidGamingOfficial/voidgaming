@@ -1,0 +1,38 @@
+GUIDE — PUBLIER VOIDGAMING GRATUITEMENT AVEC GITHUB PAGES
+
+Cette méthode publie un site statique. Elle ne crée pas de comptes membres, de base de données ni de paiements.
+
+À FAIRE AVEC UN PARENT / REPRÉSENTANT LÉGAL
+Un parent doit t'accompagner pour vérifier les conditions d'âge et d'utilisation de la plateforme, les mentions légales et les démarches applicables. Ne partage jamais un mot de passe.
+
+1) PRÉPARER
+- Décompresse VoidGaming_V3_Pack_Lancement_Gratuit.zip.
+- Vérifie que index.html est directement dans le dossier VoidGaming.
+- Ouvre index.html et teste le site.
+
+2) CRÉER LE DÉPÔT
+- Avec l'accompagnement d'un parent, utilise un compte GitHub conformément à ses conditions.
+- Crée un dépôt nommé exactement : voidgaming
+- Choisis Public seulement si vous acceptez que le code du site soit public.
+- Téléverse le CONTENU du dossier VoidGaming à la racine du dépôt (pas le dossier parent lui-même).
+
+3) ACTIVER GITHUB PAGES
+- Dans le dépôt, ouvre Settings (Paramètres), puis Pages.
+- Dans Build and deployment, choisis Deploy from a branch.
+- Choisis la branche main et le dossier / (root), puis Save.
+- Attends le déploiement. GitHub affichera l'adresse publique, généralement :
+  https://NOM-UTILISATEUR.github.io/voidgaming/
+
+4) APRÈS PUBLICATION
+- Teste l'adresse sur téléphone et ordinateur.
+- Vérifie tous les liens et les pages légales.
+- Ne présente pas le site comme officiellement lancé tant que les mentions légales, le responsable et l'hébergement n'ont pas été vérifiés.
+- Mets à jour robots.txt et sitemap.xml avec l'URL publique exacte.
+- Pour modifier le site, téléverse les fichiers actualisés dans le même dépôt.
+
+5) LIMITES
+GitHub Pages héberge les fichiers statiques. Comptes, profils, classements en direct, commentaires et paiements nécessitent un backend sécurisé, de la modération et des vérifications juridiques supplémentaires. Ne collecte pas de données dans cette première version.
+
+DOCUMENTATION OFFICIELLE
+https://docs.github.com/pages
+https://docs.github.com/pages/quickstart

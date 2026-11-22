@@ -1,4 +1,4 @@
-GUIDE — PUBLIER VOIDGAMING GRATUITEMENT AVEC GITHUB PAGES
+GUIDE — PUBLIER DeathGaming GRATUITEMENT AVEC GITHUB PAGES
 
 Cette méthode publie un site statique. Elle ne crée pas de comptes membres, de base de données ni de paiements.
 
@@ -7,12 +7,12 @@ Un parent doit t'accompagner pour vérifier les conditions d'âge et d'utilisati
 
 1) PRÉPARER
 - Décompresse VoidGaming_V3_Pack_Lancement_Gratuit.zip.
-- Vérifie que index.html est directement dans le dossier VoidGaming.
+- Vérifie que index.html est directement dans le dossier DeathGaming.
 - Ouvre index.html et teste le site.
 
 2) CRÉER LE DÉPÔT
 - Avec l'accompagnement d'un parent, utilise un compte GitHub conformément à ses conditions.
-- Crée un dépôt nommé exactement : voidgaming
+- Crée un dépôt nommé exactement : deathgaming
 - Choisis Public seulement si vous acceptez que le code du site soit public.
 - Téléverse le CONTENU du dossier VoidGaming à la racine du dépôt (pas le dossier parent lui-même).
 

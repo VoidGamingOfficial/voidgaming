@@ -1,4 +1,4 @@
-VOIDGAMING — PACK DE PRÉ-LANCEMENT V3
+DEATHGAMING — PACK DE PRÉ-LANCEMENT V3
 
 CONTENU
 - index.html : site vitrine responsive, catalogue, recherche et filtres.
@@ -10,7 +10,7 @@ CONTENU
 
 TESTER
 1. Décompresse l'archive.
-2. Ouvre le dossier VoidGaming.
+2. Ouvre le dossier DeathGaming.
 3. Double-clique sur index.html.
 4. Teste les filtres, la recherche, le menu et les pages légales.
 
